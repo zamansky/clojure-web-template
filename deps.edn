@@ -9,7 +9,7 @@
  
 
  
- :paths ["src" "resources"]
+ :paths ["src" "resources" "test"]
  
  :aliases
  {:test {:extra-paths ["test"]}}
